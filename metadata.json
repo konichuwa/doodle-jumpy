@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Jump - WASD Edition",
+  "description": "A high-performance HTML5 Canvas vertical jumper game featuring responsive WASD controls, procedural platform generation, and smooth physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
